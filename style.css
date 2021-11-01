@@ -1,0 +1,38 @@
+body{
+  background-color: #ee82ee;//rgb(0,210,250) <- gives a light blue colour;
+  color: gold;
+}
+
+h1{
+  font-size: 50px;
+  font-family: Calibri, monospace;
+  text-align: center;
+  text-shadow: 1px 2px 5px #ffa500;
+
+}
+
+li{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.red-font{
+  color:red;
+}
+
+p{
+  color:green
+}
+
+
+#p1{
+  color: purple;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+#p2{
+  color: black;
+}
+
+
+
